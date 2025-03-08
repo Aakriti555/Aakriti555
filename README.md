@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Digital Health Research and Game Development**
+ 🔭 I’m currently working on **Game Development projects**
  
  🌱 I’m currently learning **TensorFlow, PyTorch, MLOps, and Cloud Technologies**
 
@@ -37,7 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,react,html,css,js,nodejs,mongodb,git,github,unity,c,cpp" /><br>
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,vscode,github,figma" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,js,nodejs,mongodb,git,unity,c,cpp" /><br>
 </div>
 
 <br/>
@@ -67,9 +68,5 @@
 <hr/>
 
 <br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Chiya at ko-fi.com' /></a>
-</div>
 
 <br/>
